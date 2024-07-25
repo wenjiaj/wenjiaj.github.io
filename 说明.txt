@@ -1,0 +1,26 @@
+A.单机版(仅限电脑使用)
+*没接触过nodejs的看教程
+
+0.新建一个文件夹 把东西都解压进去
+
+1.安装node.js(node-v20.10.0-x64.msi) 在分享链接内
+     *安装教程https://blog.csdn.net/m0_59598029/article/details/132238510
+
+2.第一次启动点[安装完node.js点我.bat]
+
+3.点[启动服务器.bat] **打开不要关 有报错也不用管
+
+4.访问http://127.0.0.1:1567/
+
+
+端口冲了用记事本打开把1567改成别的
+
+启动后支持局域网/热点下的设备使用(手机也可以)
+
+B.github
+https://zhuanlan.zhihu.com/p/91652100
+弄好后把所有文件传上去
+
+修改概率
+打开活动文件夹里的index.html
+搜const prizes修改probability
